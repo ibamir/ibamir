@@ -49,5 +49,3 @@
 <p align="center">
   <i>“I build because it’s fun to make ideas real.”</i> ⚡
 </p>
-
-<div backround-color='red'></div>
