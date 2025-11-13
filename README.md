@@ -41,7 +41,7 @@
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-1E88E5?style=flat&logo=google&logoColor=white)
 
 #### 🧩 Tools & Deployment
-![ImageKit](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ftpd%2Flogos%2F5f34f753575ca4000188d713%2F0x0.png&f=1&nofb=1&ipt=3b03264cc60d568aafc3826e041bcf1db78efaf13d6e4d9fc3cd7bad558500cb)
+![ImageKit](https://img.shields.io/badge/ImageKit-4C9EE3?style=flat&logo=imagekit&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-2B6CB0?style=flat&logo=lock&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
