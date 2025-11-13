@@ -59,3 +59,4 @@
 <p align="center">
   <i>“I build because it’s fun to make ideas real.”</i> ⚡
 </p>
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/73c151e3-467d-4fe7-88b2-a085241b298a" />
