@@ -16,97 +16,37 @@
 
 ### 🧰 Tech Stack
 
-<!-- Tech Stack Cards Grid -->
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+### 🧰 Tech Stack
 
-  <!-- Languages -->
-  <div style="border:1px solid #e1e4e8; border-radius:8px; padding:12px; text-align:center; width:110px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/><br>
-    JavaScript
-  </div>
-  <div style="border:1px solid #e1e4e8; border-radius:8px; padding:12px; text-align:center; width:110px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32"/><br>
-    TypeScript
-  </div>
+#### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-  <!-- Frontend -->
-  <div style="border:1px solid #e1e4e8; border-radius:8px; padding:12px; text-align:center; width:110px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/><br>
-    React (Vite)
-  </div>
-  <div style="border:1pxsolid #e1e4e8; border-radius:8px; padding:12px; text-align:center; width:110px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Tailwind_CSS_Logo.svg" width="32"/><br>
-    TailwindCSS
-  </div>
-  <div style="border:1px solid #e1e4e8; border-radius:8px; padding:12px; text-align:center; width:110px;">
-    <!-- Replace with actual logo link for shadcn/ui when found -->
-    <img src="https://raw.githubusercontent.com/shadcn/ui/main/logo.svg" width="32"/><br>
-    shadcn/ui
-  </div>
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-18181B?style=flat&logo=tailwindcss&logoColor=38BDF8)
 
-  <!-- Backend -->
-  <div style="border:1px solid #e1e4e8; border-radius:8px; padding:12px; text-align:center; width:110px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32"/><br>
-    Node.js
-  </div>
-  <div style="border:1px solid #e1e4e8; border-radius:8px; padding:12px; text-align:center; width:110px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32"/><br>
-    Express
-  </div>
-  <div style="border:1px solid #e1e4e8; border-radius:8px; padding:12px; text-align:center; width:110px;">
-    <!-- Replace with actual logo for Convex -->
-    <img src="https://avatars.githubusercontent.com/u/67718126?s=200&v=4" width="32"/><br>
-    Convex
-  </div>
-  <div style="border:1px solid #e1e4e8; border-radius:8px; padding:12px; text-align:center; width:110px;">
-    <!-- Replace with actual logo for Inngest -->
-    <img src="https://avatars.githubusercontent.com/u/11060065?s=200&v=4" width=“32”/><br>
-    Inngest
-  </div>
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-0A0A0A?style=flat&logo=react&logoColor=61DAFB)
+![Inngest](https://img.shields.io/badge/Inngest-2F2F8A?style=flat&logo=workflow&logoColor=white)
 
-  <!-- Database -->
-  <div style="border:1px solid #e1e4e8; border-radius:8px; padding:12px; text-align:center; width:110px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32"/><br>
-    MongoDB
-  </div>
+#### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-  <!-- APIs & Payments -->
-  <div style="border:1px solid #e1e4e8; border-radius:8px; padding:12px; text-align:center; width:110px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" width="32"/><br>
-    Stripe
-  </div>
-  <div style="border:1px solid #e1e4e8; border-radius:8px; padding:12px; text-align:center; width:110px;">
-    <!-- Replace with actual logo for Polar -->
-    <img src="https://avatars.githubusercontent.com/u/107573836?s=200&v=4" width="32"/><br>
-    Polar
-  </div>
-  <div style="border:1px solid #e1e4e8; border-radius:8px; padding:12px; text-align:center; width:110px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Google_G_Logo.svg" width="32"/><br>
-    Google Gemini
-  </div>
+#### 🔗 APIs & Payments
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![Polar](https://img.shields.io/badge/Polar-111827?style=flat&logo=githubsponsors&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-1E88E5?style=flat&logo=google&logoColor=white)
 
-  <!-- Tools & Deployment -->
-  <div style="border:1px solid #e1e4e8; border-radius:8px; padding:12px; text-align:center; width:110px;">
-    <!-- Replace with actual logo for ImageKit -->
-    <img src="https://imagekit.io/images/logo.svg" width="32"/><br>
-    ImageKit
-  </div>
-  <div style="border:1px solid #e1e4e8; border-radius:8px; padding:12px; text-align:center; width:110px;">
-    <!-- Replace with actual logo for JWT -->
-    <img src="https://raw.githubusercontent.com/jwt-dotnet/jwt-dotnet/main/docs/logo.png" width="32"/><br>
-    JWT
-  </div>
-  <div style="border:1px solid #e1e4e8; border-radius:8px; padding:12px; text-align:center; width:110px;">
-    <!-- Replace with actual logo for Bcrypt -->
-    <img src="https://raw.githubusercontent.com/kelektiv/node.bcrypt.js/master/logo.png" width="32"/><br>
-    Bcrypt
-  </div>
-  <div style="border:1px solid #e1e4e8; border-radius:8px; padding:12px; text-align:center; width:110px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="32"/><br>
-    Vercel
-  </div>
-
-</div>
+#### 🧩 Tools & Deployment
+![ImageKit](https://img.shields.io/badge/ImageKit-4C9EE3?style=flat&logo=imagekit&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-2B6CB0?style=flat&logo=lock&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
