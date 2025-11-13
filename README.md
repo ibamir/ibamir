@@ -18,11 +18,11 @@
 
 #### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 #### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-18181B?style=flat&logo=tailwindcss&logoColor=38BDF8)
 
@@ -30,14 +30,14 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-0A0A0A?style=flat&logo=react&logoColor=61DAFB)
-![Inngest](https://img.shields.io/badge/Inngest-2F2F8A?style=flat&logo=nextdotjs&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-2F2F8A?style=flat&logo=workflow&logoColor=white)
 
 #### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 #### 🔗 APIs & Payments
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-![Polar](https://img.shields.io/badge/Polar-111827?style=flat&logo=stripe&logoColor=blueviolet)
+![Polar](https://img.shields.io/badge/Polar-111827?style=flat&logo=githubsponsors&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-1E88E5?style=flat&logo=google&logoColor=white)
 
 #### 🧩 Tools & Deployment
