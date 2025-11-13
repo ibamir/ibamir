@@ -50,4 +50,4 @@
   <i>“I build because it’s fun to make ideas real.”</i> ⚡
 </p>
 
-<div backround='red'></div>
+<div backround-color='red'></div>
