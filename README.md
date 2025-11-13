@@ -15,8 +15,6 @@
 ---
 
 ### 🧰 Tech Stack
-<div align="center">
-  
 #### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -46,7 +44,7 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-2B6CB0?style=flat&logo=lock&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-</div>
+
 <p align="center">
   <i>“I build because it’s fun to make ideas real.”</i> ⚡
 </p>
