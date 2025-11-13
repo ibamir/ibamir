@@ -32,7 +32,7 @@
 ![Convex](https://img.shields.io/badge/Convex-0A0A0A?style=flat)
 ![Inngest](https://img.shields.io/badge/Inngest-2F2F8A?style=flat&logo=workflow&logoColor=white)
 
-#### <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/73c151e3-467d-4fe7-88b2-a085241b298a" /> Database
+#### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/73c151e3-467d-4fe7-88b2-a085241b298a" /> Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 #### 🔗 APIs & Payments
