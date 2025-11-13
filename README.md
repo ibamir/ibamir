@@ -32,7 +32,7 @@
 ![Convex](https://img.shields.io/badge/Convex-0A0A0A?style=flat)
 ![Inngest](https://img.shields.io/badge/Inngest-2F2F8A?style=flat&logo=workflow&logoColor=white)
 
-#### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/73c151e3-467d-4fe7-88b2-a085241b298a" /> Database
+#### <div justify='center'><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/73c151e3-467d-4fe7-88b2-a085241b298a" /><div> Database</div></div>
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 #### 🔗 APIs & Payments
@@ -45,16 +45,6 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-2B6CB0?style=flat&logo=lock&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-### 🧠 Projects
-- 🤖 **AI Chatbot ("Orion")** – Full-stack Gemini-powered chatbot for text & image generation.  
-- 🧩 **Utility Scripts** – Automation tools for importing economic news & merging JSON files.  
-- ⚙️ **Convex + Inngest Experiments** – Building real-time, event-driven app backends.  
-- 💰 **Polar Integration Demo** – Exploring funding and API integration for open-source projects.  
-
----
 
 <p align="center">
   <i>“I build because it’s fun to make ideas real.”</i> ⚡
