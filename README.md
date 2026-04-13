@@ -9,7 +9,7 @@
 <table width="100%" align="center">
   <tr align="center" valign="top">
     <td >
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="270" height="1" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="260" height="1" />
       <br/>
       <strong>Something stealth</strong> &nbsp; <img src="https://img.shields.io/badge/-In%20progress-blue?style=flat" height="17" />
       <br/>
@@ -19,7 +19,7 @@
       <br/><br/>
     </td>
     <td >
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="270" height="1" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="260" height="1" />
       <br />
       <strong>Sketchy</strong> &nbsp; <img src="https://img.shields.io/badge/-Completed-green?style=flat" height="17" /> <br/>
       <sub>
@@ -31,7 +31,7 @@
       <br /> <br />
     </td>
     <td >
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="270" height="1" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="260" height="1" />
       <br />
       <strong>Orion</strong> &nbsp; <img src="https://img.shields.io/badge/-Completed-green?style=flat" height="17" /> <br/>
       <sub>
@@ -81,7 +81,7 @@
 <table width="100%" align="center">
   <tr align="center">
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="270" height="1" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="260" height="1" />
       <br />
       <p align="center">💻</p>
       <strong>Languages</strong><br/>
@@ -89,7 +89,7 @@
       <br /><br />
     </td>
     <td >
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="270" height="1" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="260" height="1" />
       <br />
       <p align="center">🎨</p>
       <strong>Frontend</strong><br/>
@@ -97,7 +97,7 @@
       <br /><br />
     </td>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="270" height="1" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="260" height="1" />
       <br />
       <p align="center">⚙️</p>
       <strong>Backend</strong><br/>
