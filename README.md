@@ -32,6 +32,6 @@
 ```typescript
 {
   "editor": "VS Code",
-  "theme": ["TokyoNight", "Catppuccin"],
-  "focus": ["TypeScript", "UI Architecture", "Esports Branding"]
+  "theme": ["TokyoNight", "Catppuccin", "One Dark Pro", "Horizon", "Palenight"],
+  "focus": ["TypeScript", "UI Architecture"]
 }
