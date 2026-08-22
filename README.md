@@ -6,7 +6,7 @@
 </div>
 
 ### 01 / THE MAIN MISSION
-**Canvas**
+**Evoon**
 *The primary focus. Building a platform for competitive mastery.*
 > **Stack :** `Next.js` · `TypeScript` · `Tailwind CSS` · `Convex`
 
@@ -18,6 +18,7 @@
 *   **Sketchy** — AI SaaS converting sketches to designs. (Fun Experiment)
 *   **Orion** — High-fidelity AI chatbot. (Learning Project)
 *   **Menarra** — AI SaaS that converting YouTube videos into an organaized learing path
+*   **Clip it** — A mobile app that lets users clip, save, and organize anything directly in Notion.
 *   **Something Stealth** — New ideas in progress.
 
 <br/>
