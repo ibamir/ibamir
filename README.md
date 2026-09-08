@@ -8,10 +8,10 @@
 ### 01 / THE MAIN MISSION
 
 > [!IMPORTANT]
-> **Turn**
-> *The primary focus. Building a platform for competitive mastery.*
+> **Turn**  
+> *Building a platform for competitive mastery as a Full-Stack Developer.*  
 > 
-> **Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `Convex`
+> **Core Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `shadcn/ui` · `Convex` · `Clerk` · `Polar`
 
 <br/>
 
@@ -40,6 +40,7 @@
 ### 04 / ENVIRONMENT
 
 > [!CAUTION]
+> **Role:** Full-Stack Developer  
+> **Workflow & Monitoring:** `Inngest` · `Sentry`  
 > **Editor:** VS Code  
-> **Themes:** `TokyoNight` · `Catppuccin` · `One Dark Pro` · `Horizon` · `Palenight`  
-> **Focus:** `TypeScript` · `UI Architecture`
+> **Themes:** `TokyoNight` · `Catppuccin` · `One Dark Pro`
