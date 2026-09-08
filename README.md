@@ -6,35 +6,40 @@
 </div>
 
 ### 01 / THE MAIN MISSION
-**Turn**
-*The primary focus. Building a platform for competitive mastery.*
-> **Stack :** `Next.js` · `TypeScript` · `Tailwind CSS` · `Convex`
+
+> [!IMPORTANT]
+> **Turn**
+> *The primary focus. Building a platform for competitive mastery.*
+> 
+> **Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `Convex`
 
 <br/>
 
 ### 02 / THE LAB
 *Experimental projects and late-night curiosity.*
 
-*   **Sketchy** — AI SaaS converting sketches to designs. (Fun Experiment)
-*   **Orion** — High-fidelity AI chatbot. (Learning Project)
-*   **Menarra** — AI SaaS that converting YouTube videos into an organaized learing path
-*   **Clip it** — A mobile app that lets users clip, save, and organize anything directly in Notion.
-*   **Evoon** — A I SaaS graphic design that user design and generate images using AI through a node system.
-*   **Something Stealth** — New ideas in progress.
+> [!NOTE]
+> * **Sketchy** — AI SaaS converting sketches to designs. *(Fun Experiment)*
+> * **Orion** — High-fidelity AI chatbot. *(Learning Project)*
+> * **Menarra** — AI SaaS converting YouTube videos into an organized learning path.
+> * **Clip it** — Mobile app to clip, save, and organize content directly in Notion.
+> * **Evoon** — AI graphic design SaaS using node-based image generation.
+> * **Something Stealth** — New ideas in progress.
 
 <br/>
 
 ### 03 / PHILOSOPHY
-**The Builder** — I build to understand how the world works.  
-**The Architect** — Clean UI and sharp branding. Every detail is a decision.  
-**The Polyglot** — Fluent in 4 languages and multiple code paradigms.  
+
+> [!TIP]
+> **The Builder** — I build to understand how the world works.  
+> **The Architect** — Clean UI and sharp branding. Every detail is a decision.  
+> **The Polyglot** — Fluent in 4 languages and multiple code paradigms.  
 
 <br/>
 
 ### 04 / ENVIRONMENT
-```typescript
-{
-  "editor": "VS Code",
-  "theme": ["TokyoNight", "Catppuccin", "One Dark Pro", "Horizon", "Palenight"],
-  "focus": ["TypeScript", "UI Architecture"]
-}
+
+> [!CAUTION]
+> **Editor:** VS Code  
+> **Themes:** `TokyoNight` · `Catppuccin` · `One Dark Pro` · `Horizon` · `Palenight`  
+> **Focus:** `TypeScript` · `UI Architecture`
