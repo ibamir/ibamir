@@ -1,6 +1,5 @@
 <div align="center">
   <br/>
-  <h1>amir.dev</h1>
   <p><strong>Building because it's fun to make ideas real.</strong></p>
   <br/>
 </div>
@@ -8,10 +7,10 @@
 ### 01 / THE MAIN MISSION
 
 > [!IMPORTANT]
-> **Turn**  
+> **Skilled**  
 > *Building a platform for competitive mastery as a Full-Stack Developer.*  
 > 
-> **Core Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `shadcn/ui` · `Convex` · `Clerk` · `Polar`
+> **Core Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `shadcn/ui` · `Convex` · `Clerk`
 
 <br/>
 
