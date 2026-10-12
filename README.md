@@ -12,7 +12,7 @@
 > * **Focus:** Class discovery, skill tracking, and project-based learning paths.
 > * **Core Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `shadcn/ui` · `Convex` · `Clerk`
 
-<br/>
+<br/><hr/>
 
 ### 02 / THE LAB
 *Experimental projects and late-night curiosity.*
@@ -23,7 +23,7 @@
 > * **Evoon** — Node-based AI graphic design tool.
 > * **Something Stealth** — New ideas in progress.
 
-<br/>
+<br/><hr/>
 
 ### 03 / CAPABILITIES
 
@@ -31,7 +31,7 @@
 > * **Frontend:** `Next.js` · `TypeScript` · `Tailwind CSS` · `shadcn/ui`
 > * **Backend & Data:** `Convex` · `Clerk` · `Inngest` · `Sentry`
 
-<br/>
+<br/><hr/>
 
 ### 04 / ENVIRONMENT
 
