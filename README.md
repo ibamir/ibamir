@@ -7,10 +7,10 @@
 ### 01 / THE MAIN MISSION
 
 > [!IMPORTANT]
-> **Skilled** — *Platform for Competitive Mastery*
+> **Skilled** — *Creator-Driven Skill Marketplace*
 > 
-> * **Focus:** Class discovery, skill tracking, and project-based learning paths.
-> * **Core Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `shadcn/ui` · `Convex` · `Clerk`
+> * **Focus:** Enables creators to publish video classes, attach learning resources, and monetize their skills directly with custom pricing.
+> * **Core Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `shadcn/ui` · `Convex` · `Clerk` · `Polar`
 
 <br/><hr/>
 
