@@ -2,8 +2,8 @@
   <br/>
   <p><strong>Building because it's fun to make ideas real.</strong></p>
   <p>
-    <a href="https://ibamir.vercel.app">
-      <img src="https://img.shields.io/badge/ibamir.vercel.app-262629?style=flat&logo=vercel&logoColor=F4F4F5" height="22" alt="Portfolio" />
+    <a href="https://ibamir.is-a.dev">
+      <img src="https://img.shields.io/badge/-ibamir.is--a.dev-262629?style=flat&logo=gnubash&logoColor=F4F4F5" height="22" alt="Portfolio" />
     </a>
   </p>
   <br/>
